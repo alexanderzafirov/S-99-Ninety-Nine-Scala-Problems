@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf156031-f371-4fa8-90ab-db9791c230bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/problem15.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/problem16.sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="problems.iws" />
@@ -48,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem15.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem15.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/problem15.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.05175038" vertical-offset="0" max-vertical-offset="657">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.10350076" vertical-offset="0" max-vertical-offset="657">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem16.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/problem16.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="657">
+              <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/problem13.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/problem14.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/problem15.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/problem16.sc" />
       </list>
     </option>
   </component>
@@ -404,7 +415,13 @@
       <option name="project" value="LOCAL" />
       <updated>1417120885522</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Problem 15&#10;">
+      <created>1417121013496</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1417121013496</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,7 +473,8 @@
     <MESSAGE value="Problem 11" />
     <MESSAGE value="Problem 13&#10;Scala sdk update" />
     <MESSAGE value="Problem 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 14" />
+    <MESSAGE value="Problem 15&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 15&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -605,8 +623,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/problem15.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05175038" vertical-offset="0" max-vertical-offset="657">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.10350076" vertical-offset="0" max-vertical-offset="657">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/problem16.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="657">
+          <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
           <folding />
         </state>
       </provider>
